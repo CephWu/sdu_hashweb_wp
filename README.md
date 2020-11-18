@@ -7,4 +7,4 @@ ps3:基础很重要，还没有学python和php的同学快自己好好看一看�
 靶场：
 https://adworld.xctf.org.cn
 https://buuoj.cn
-https://cgctf.nuptsast.com(比较简单但是经常挂)
+https://cgctf.nuptsast.com
